@@ -1,2 +1,10 @@
+#ignore everything
+*
+
+#allow directories
+!*/
+#allow files with extensions
+!*.*
+
+#ignore binaries
 *.bin
-*.
