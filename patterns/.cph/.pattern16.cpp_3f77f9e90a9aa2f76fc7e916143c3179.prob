@@ -1,1 +1,0 @@
-{"name":"Local: pattern16","url":"/Users/nk/Desktop/cp/patterns/pattern16.cpp","tests":[{"id":1735175734593,"input":"5","output":"A\nBB\nCCC\nDDDD\nEEEEE\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/nk/Desktop/cp/patterns/pattern16.cpp","group":"local","local":true}
