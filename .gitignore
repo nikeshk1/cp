@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# allow directories
+!*/
+
+# allow files that have names including extension
+!*.*
+
+# ignore specific folder
+.cph/
+
+# ignore files with .bin extension
+*.bin
