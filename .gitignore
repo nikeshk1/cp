@@ -9,6 +9,7 @@
 
 # ignore specific folder
 .cph/
+.vscode/
 
 # ignore files with .bin extension
 *.bin
